@@ -1,4 +1,4 @@
-# Hi, I'm Kareem Mousa 👋
+# Hi, I'm Kareem Mousa
 ### Junior Penetration Tester | eJPT v2 | CCNA v1.1
 
 Passionate Cybersecurity & Systems Engineering graduate specializing in Web Application, Network, and Active Directory Penetration Testing.
