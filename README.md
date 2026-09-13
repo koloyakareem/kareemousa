@@ -24,9 +24,9 @@ Passionate Cybersecurity & Systems Engineering graduate specializing in Web Appl
 ### 📂 Highlighted Projects & Write-ups
 - 🔗 **[Active Directory Attack & Defense Lab](./AD-Lab-Writeup)** - Full attack path execution (Kerberoasting, Pass-the-Hash, Privilege Escalation).
 - 🔗 **[PortSwigger Web Security Academy Solutions](./PortSwigger-Writeups)** - Detailed walk-throughs for 50+ OWASP Top 10 web labs.
-- 🔗 **[SmartShield IPS Security Assessment](./SmartShield-IPS)** - Graduation project vulnerability assessment & attack framework.
+- 🔗 **[SmartShield IPS Security Assessment](https://github.com/7ksha/Smart-Shield_GP/tree/main)** - Graduation project vulnerability assessment & attack framework.
 
 ---
 
 📫 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [TryHackMe Profile](https://tryhackme.com/p/your-profile) | Email: kareemousa17@gmail.com
+[LinkedIn](https://linkedin.com/in/kareemousa/) | [TryHackMe Profile](https://tryhackme.com/p/koloyakareem17) | Email: kareemousa17@gmail.com
