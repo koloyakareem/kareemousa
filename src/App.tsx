@@ -143,7 +143,7 @@ function Home() {
     KAREEM MOUSA MAHMOUD
   </h1>
   <img 
-    src="/profile.jpg" 
+    src="./profile.jpg" 
     alt="Kareem" 
     className="w-32 h-32 rounded-full mb-4" 
   />
