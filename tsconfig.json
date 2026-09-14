@@ -21,6 +21,19 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["src", "vite.config.ts"],
+  "include": [
+  "src/App.tsx",
+  "src/main.tsx",
+  "src/index.css",
+  "src/components/error-boundary.tsx",
+  "src/components/ui/button.tsx",
+  "src/components/ui/card.tsx",
+  "src/components/ui/toast.tsx",
+  "src/components/ui/toaster.tsx",
+  "src/components/ui/tooltip.tsx",
+  "src/hooks/use-toast.ts",
+  "src/pages/not-found.tsx",
+  "vite.config.ts"
+],
   "exclude": ["node_modules", "dist"]
 }
