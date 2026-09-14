@@ -136,7 +136,7 @@ function Home() {
         <div className="hero-grid">
           <div>
             <div className="hero-kicker reveal">Cybersecurity · penetration testing · infrastructure</div>
-            <h1 className="reveal delay-1">KAREEM MOUSA MAHMOUD<br />
+            <h1 className="reveal delay-1">KAREEM MOUSA MAHMOUD<br /> </h1>
               <img src="/profile.jpg" alt="Kareem" className="w-32 h-32 rounded-full mb-4" />
             <p className="hero-copy reveal delay-2">I assess networks and applications, uncover vulnerabilities, and turn technical findings into practical remediation strategies teams can act on.</p>
             <div className="hero-actions reveal delay-3">
