@@ -136,7 +136,8 @@ function Home() {
         <div className="hero-grid">
           <div>
             <div className="hero-kicker reveal">Cybersecurity · penetration testing · infrastructure</div>
-            <h1 className="reveal delay-1">Find the break.<br /><em>Explain</em> the risk.<br />Strengthen the system.</h1>
+            <h1 className="reveal delay-1">KAREEM MOUSA MAHMOUD<br />
+              <img src="/profile.jpg" alt="Kareem" className="w-32 h-32 rounded-full mb-4" />
             <p className="hero-copy reveal delay-2">I assess networks and applications, uncover vulnerabilities, and turn technical findings into practical remediation strategies teams can act on.</p>
             <div className="hero-actions reveal delay-3">
               <button className="btn-primary" onClick={() => scrollToSection('contact')} data-testid="button-start-conversation">Start a conversation <ArrowDownRight size={15} /></button>
