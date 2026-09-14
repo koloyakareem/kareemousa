@@ -137,7 +137,7 @@ function Home() {
           <div>
 <div>
   <div className="hero-kicker reveal">
-    Cybersecurity · Penetration testing · Infrastructure
+    Cybersecurity · Penetration testing · Infrastructure & Security
   </div>
   <h1 className="reveal delay-1">
     KAREEM MOUSA MAHMOUD
@@ -145,10 +145,9 @@ function Home() {
   <img 
     src="./profile.jpg" 
     alt="Kareem" 
-    className="w-32 h-32 rounded-full mb-4" 
+    className="w-full max-w-4xl h-auto rounded-xl object-cover mb-6 border border-slate-700/50 shadow-2xl" 
   />
 </div>  
-              <img src="/profile.jpg" alt="Kareem" className="w-32 h-32 rounded-full mb-4" />
             <p className="hero-copy reveal delay-2">I assess networks and applications, uncover vulnerabilities, and turn technical findings into practical remediation strategies teams can act on.</p>
             <div className="hero-actions reveal delay-3">
               <button className="btn-primary" onClick={() => scrollToSection('contact')} data-testid="button-start-conversation">Start a conversation <ArrowDownRight size={15} /></button>
